@@ -6,9 +6,9 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Arthur! A passionate programador student from Brazil.
+  Hi 👋,I'm Arthur! student programmer from Brazil.
 
-  - 🌱 I’m currently estou fazendo faculdade de ADS 
+  - 🌱 I’m currently attending ADS college
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with software engineer.
 </p>
@@ -25,16 +25,6 @@
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
-
-
-
-<!-- Portfolio -->
-## Portfolio:
-- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
-- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
-- [Client Registry System](https://github.com/VariableBee/Cartorio)
 
 <!-- GIF -->
 <p align="left">
